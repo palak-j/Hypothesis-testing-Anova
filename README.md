@@ -21,7 +21,7 @@ Some Post-Hoc Tests
 4) Fisher's Least Significant Difference(Fisher's LSD)
 5) Tukey's Honestly Significant Difference(Tukey's HSD)
 
-For more detailed explanation:
 
-Visit
-https://palak-j.github.io/notes
+For more detailed explanation:
+#### Visit
+#### https://palak-j.github.io/notes
