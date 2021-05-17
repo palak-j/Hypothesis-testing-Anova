@@ -44,39 +44,6 @@ lsmeans(model1, pairwise~group, adjust="tukey")
 
 
 
-#  Example 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
