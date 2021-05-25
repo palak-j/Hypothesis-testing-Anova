@@ -25,3 +25,9 @@ Scores:
 Group1(high stress) = [2, 3, 7,	2, 6]
 Group2(moderate stress)	= [10,	8,	7,	5,	10]
 Group3(low stress)	= [10,	13,	14,	13,	15]
+
+
+
+For more detailed explanation:
+#### Visit
+#### https://palak-j.github.io/notes
