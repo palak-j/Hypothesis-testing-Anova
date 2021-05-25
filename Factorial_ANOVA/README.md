@@ -29,3 +29,8 @@ Consider we randomly assign some students into three curriculums under two condi
 You can download dataset "factorial-anova" mentioned above.
 
 
+
+
+For more detailed explanation:
+#### Visit
+#### https://palak-j.github.io/notes
