@@ -4,9 +4,9 @@ If we have more than two groups, it seems that we can run multiple t tests to co
 Therefore if we have more than two groups, we will go for ANOVA test.
 
 There are variuos forms of ANOVA such as :
-One Way Anova
-Two Way Anova/ Factorial Anova
-Repeated Measures Anova
+#### One Way Anova
+#### Two Way Anova/ Factorial Anova
+#### Repeated Measures Anova
 
 
 
