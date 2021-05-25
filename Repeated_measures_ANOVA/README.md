@@ -20,6 +20,6 @@ Consider we have data of scores of students for 4 weeks. Students are divided in
 You can download dataset "Repeated_measures.csv" mentioned above.
 
 For more detailed explanation:
+#### Visit
+#### https://palak-j.github.io/notes
 
-Visit
-https://palak-j.github.io/notes
