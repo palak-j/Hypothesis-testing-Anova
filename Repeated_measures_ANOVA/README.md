@@ -4,12 +4,12 @@ When same set of samples are being observed at different conditions, it is known
 Example1: One-way Repeated Measures ANOVA
 Consider we have scores of 5 students for weekly exams (for 5 weeks) after the training.
 
-Subject	Week1	Week2	Week3	Week4	Week5
-1	      6	    10	  8	    4	    5
-2	      2	    4	    8	    5   	6
-3	      2   	4   	8	    5	    5
-4	      4	    5   	8	    10   	7
-5	      4   	7   	9	    7	    11
+###### Subject	Week1	Week2	Week3	Week4	Week5
+###### 1	      6	    10	  8	    4	    5
+###### 2	      2	    4	    8	    5   	6
+###### 3	      2   	4   	8	    5	    5
+###### 4	      4	    5   	8	    10   	7
+###### 5	      4   	7   	9	    7	    11
 
 We want to know if there is any effect on training on the performance of students.
 
